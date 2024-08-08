@@ -1,0 +1,12 @@
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\obj\Debug\net8.0\BankReaderService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\obj\Debug\net8.0\BankReaderService.AssemblyInfoInputs.cache
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\obj\Debug\net8.0\BankReaderService.AssemblyInfo.cs
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\obj\Debug\net8.0\BankReaderService.csproj.CoreCompileInputs.cache
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\obj\Debug\net8.0\BankReaderService.sourcelink.json
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\bin\Debug\net8.0\BankReaderService.deps.json
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\bin\Debug\net8.0\BankReaderService.dll
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\bin\Debug\net8.0\BankReaderService.pdb
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\obj\Debug\net8.0\BankReaderService.dll
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\obj\Debug\net8.0\refint\BankReaderService.dll
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\obj\Debug\net8.0\BankReaderService.pdb
+c:\Users\mazat\OneDrive\desktop\it-training\bank-kata\BankReaderService\obj\Debug\net8.0\ref\BankReaderService.dll
