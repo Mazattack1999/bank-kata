@@ -16,6 +16,12 @@ namespace BankReaderServiceTests
         new string[] {" ", " ", "|"},
         1
         )]
+        [TestCase(
+        new string[] {" ", "_", " "},
+        new string[] {" ", "_", "|"},
+        new string[] {"|", "_", " "},
+        2
+        )]
         public void ReadDigit(string[] line1, string[] line2, string[] line3, int expectedDigit)
         {
             var bankReader = new BankReader();
