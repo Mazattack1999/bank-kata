@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BankReaderService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2340bebe28c9aabcc2e2105a8c96af56ec82e59")]
 [assembly: System.Reflection.AssemblyProductAttribute("BankReaderService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BankReaderService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
