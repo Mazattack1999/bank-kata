@@ -1,4 +1,4 @@
-﻿using BankReader;
+﻿using BankReaderService;
 
 namespace BankReaderServiceTests
 {
@@ -10,10 +10,16 @@ namespace BankReaderServiceTests
         new string[] {"|", "_", "|"},
         0
         )]
+        [TestCase(
+        new string[] {" ", " ", " "},
+        new string[] {" ", " ", "|"},
+        new string[] {" ", " ", "|"},
+        1
+        )]
         public void ReadDigit(string[] line1, string[] line2, string[] line3, int expectedDigit)
         {
-            var bankReaderService = new BankReaderService();
-            var digit = 1;
+            var bankReader = new BankReader();
+            var digit = bankReader.ReadDigit(line1, line2, line3);
 
             Assert.That(digit, Is.EqualTo(expectedDigit));
         }
