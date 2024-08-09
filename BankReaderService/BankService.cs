@@ -12,11 +12,25 @@
             {
                 if (line1[1] == " ")
                 {
-                    return 1;
+                    if(line2[1] == " ")
+                    {
+                        return 1;
+                    }
+                    else
+                    {
+                        return 4;
+                    }
                 }
                 else
                 {
-                    return 7;
+                    if(line2[0] == " ")
+                    {
+                        return 7;
+                    }
+                    else
+                    {
+                        return 9;
+                    }
                 }
             }
             else if (line3[0] == "|" && line3[1] == "_" && line3[2] == "|")
@@ -43,17 +57,6 @@
                 else
                 {
                     return 3;
-                }
-            }
-            else if (line3[0] == " " && line3[1] == " " && line3[2] == "|")
-            {
-                if (line1[1] == " ")
-                {
-                    return 4;
-                }
-                else 
-                {
-                    return 9;
                 }
             }
             return -1;
