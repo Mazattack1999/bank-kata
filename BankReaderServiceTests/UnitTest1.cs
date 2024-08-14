@@ -71,5 +71,19 @@ namespace BankReaderServiceTests
 
             Assert.That(digit, Is.EqualTo(expectedDigit));
         }
+
+        [TestCase(
+        new string[] {" ", "_", " "},
+        new string[] {"|", "_", "|"},
+        new string[] {" ", " ", "|"},
+        9
+        )]
+        public void ReadAccountNumber(string[] line1, string[] line2, string[] line3, int expectedNumber)
+        {
+            var bankReader = new BankReader();
+            var accountNumber = bankReader.ReadAccountNumber(line1, line2, line3);
+
+            Assert.That(accountNumber, Is.EqualTo(expectedNumber));
+        }
     }
 }

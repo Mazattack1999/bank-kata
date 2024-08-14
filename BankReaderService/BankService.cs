@@ -61,5 +61,17 @@
             }
             return -1;
         }
+
+        public int ReadAccountNumber(string[] line1, string[] line2, string[] line3)
+        {
+            var accountNumber = new List<int>();
+
+            for (var i = 0; i < 3; i += 3)
+            {
+                var j = i + 3;
+                accountNumber.Add(ReadDigit(line1[i..j], line2[i..j], line3[i..j]));
+            }
+            return 1;
+        }
     }
 }
