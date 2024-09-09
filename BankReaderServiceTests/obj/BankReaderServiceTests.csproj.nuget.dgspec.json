@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\BankReaderServiceTests.csproj": {}
+    "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\BankReaderServiceTests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\BankReaderServiceTests.csproj": {
+    "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\BankReaderServiceTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\BankReaderServiceTests.csproj",
+        "projectUniqueName": "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\BankReaderServiceTests.csproj",
         "projectName": "BankReaderServiceTests",
-        "projectPath": "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\BankReaderServiceTests.csproj",
+        "projectPath": "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\BankReaderServiceTests.csproj",
         "packagesPath": "C:\\Users\\mazat\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\obj\\",
+        "outputPath": "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mazat\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\BankReaderService.csproj": {
-                "projectPath": "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\BankReaderService.csproj"
+              "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\BankReaderService.csproj": {
+                "projectPath": "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\BankReaderService.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\BankReaderService.csproj": {
+    "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\BankReaderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\BankReaderService.csproj",
+        "projectUniqueName": "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\BankReaderService.csproj",
         "projectName": "BankReaderService",
-        "projectPath": "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\BankReaderService.csproj",
+        "projectPath": "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\BankReaderService.csproj",
         "packagesPath": "C:\\Users\\mazat\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\obj\\",
+        "outputPath": "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mazat\\AppData\\Roaming\\NuGet\\NuGet.Config"

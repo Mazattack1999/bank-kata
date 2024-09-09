@@ -67,7 +67,8 @@ namespace BankReaderServiceTests
         public void ReadDigit(string[] line1, string[] line2, string[] line3, int expectedDigit)
         {
             var bankReader = new BankReader();
-            var digit = bankReader.ReadDigit(line1, line2, line3);
+            var digitText = new List<string[]> {line1, line2, line3};
+            var digit = bankReader.ReadDigit(digitText);
 
             Assert.That(digit, Is.EqualTo(expectedDigit));
         }
@@ -81,7 +82,8 @@ namespace BankReaderServiceTests
         public void ReadAccountNumber(string[] line1, string[] line2, string[] line3, int[] expectedNumber)
         {
             var bankReader = new BankReader();
-            var accountNumber = bankReader.ReadAccountNumber(line1, line2, line3);
+            var accountNumberText = new List<string[]> {line1, line2, line3};
+            var accountNumber = bankReader.ReadAccountNumber(accountNumberText);
 
             Assert.That(accountNumber, Is.EqualTo(expectedNumber));
         }

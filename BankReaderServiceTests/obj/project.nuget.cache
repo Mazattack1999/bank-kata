@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XKFYpkwYlZ2zLaxjSapzNK/++LFoGlbH2REhtwKHu98mZXYFMCdgTMs1Q30DpHVvXdWuWMyZeoofIMIbigj5hA==",
+  "dgSpecHash": "g+333qrJCiq7V8m8DhcgN/gRmDjznZ7uTHQ5F3pag0hUFR6AKNyja+Q75JGtFto8LJEC/5nH9luBxumwUbZRSg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\BankReaderServiceTests.csproj",
+  "projectFilePath": "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\bank-kata\\BankReaderServiceTests\\BankReaderServiceTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mazat\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\mazat\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
